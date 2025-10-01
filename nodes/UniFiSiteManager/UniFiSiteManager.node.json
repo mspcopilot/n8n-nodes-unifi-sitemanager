@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-unifi-sitemanager",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["IoT", "Network & Security"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://developer.ui.com/site-manager-api/gettingstarted#obtaining-an-api-key"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://developer.ui.com/site-manager-api/gettingstarted"
+			}
+		]
+	}
+}
