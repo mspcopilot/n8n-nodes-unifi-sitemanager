@@ -1,6 +1,6 @@
 {
     "name": "@mspcopilot/n8n-nodes-unifi-sitemanager",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "n8n community node to work with the UniFi Site Manager API",
     "license": "MIT",
     "homepage": "https://developer.ui.com/site-manager-api/gettingstarted",
